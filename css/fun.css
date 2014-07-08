@@ -61,12 +61,13 @@ body {
     text-transform: uppercase;
     font: normal 20px "Arial","Helvetica",sans-serif;
     text-align: center;
+    margin-bottom: 20px;
 
 }
 
 .message-block p {
     font: normal 16px "Arial","Helvetica",sans-serif;
-    line-height: 30px;
+    line-height: 22px;
 
 }
 

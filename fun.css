@@ -3,19 +3,19 @@
   font-family: 'Raleway';
   font-style: normal;
   font-weight: 300;
-  src: local('Raleway-Light'), url(../fonts/Raleway-Light.ttf) format('truetype');
+  src: local('Raleway-Light'), url(Raleway-Light.ttf) format('truetype');
 }
 @font-face {
   font-family: 'Raleway';
   font-style: normal;
   font-weight: 500;
-  src: local('Raleway-Regular'), url(../fonts/Raleway-Regular.ttf) format('truetype');
+  src: local('Raleway-Regular'), url(Raleway-Regular.ttf) format('truetype');
 }
 @font-face {
   font-family: 'Raleway';
   font-style: normal;
   font-weight: 600;
-  src: local('Raleway-SemiBold'), url(../fonts/Raleway-SemiBold.ttf) format('truetype');
+  src: local('Raleway-SemiBold'), url(Raleway-SemiBold.ttf) format('truetype');
 }
 
 
@@ -23,7 +23,7 @@
 
     .homepage-header {
         height: 450px;
-        background-image: url('../images/homepage2495.jpg');
+        background-image: url('homepage2495.jpg');
     }
     .homepage-header h1 {
         font-size: 48px;
@@ -38,7 +38,7 @@
 
     .homepage-header {
         height: 360px;
-        background-image: url('../images/homepage1900.jpg')
+        background-image: url('homepage1900.jpg')
     }
     .homepage-header h1 {
         font-size: 42px;
@@ -55,7 +55,7 @@
 
     .homepage-header {
         height: 320px;
-        background-image: url('../images/homepage1280.jpg')
+        background-image: url('homepage1280.jpg')
     }
     .homepage-header h1 {
         font-size: 38px;
@@ -72,7 +72,7 @@
 
     .homepage-header {
         height: 260px;
-        background-image: url('../images/homepage768.jpg')
+        background-image: url('homepage768.jpg')
     }
     .homepage-header h1 {
         font-size: 22px;
